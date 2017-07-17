@@ -1,0 +1,36 @@
+/*
+Theme Name: Oblique Demoify WP
+Theme URI: http://themeisle.com/themes/oblique
+Template: oblique
+Author: Demoify
+Author URI: https://demoify.com
+Description: Oblique is a creative masonry theme that works great for fashion or general bloggers. Amongst the features you will find a a parallax header image, full color control with unlimited color variations, easy access to all Google Fonts, responsive design etc.
+Tags: custom-colors,custom-background,custom-menu,custom-header,featured-images,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 1.0.0
+Updated: 2017-07-17 08:18:49
+
+*/
+
+
+body {
+    background-color: #4d0026;
+	   }
+
+.site-footer {
+    background-color: #4d0026 !important;
+}
+
+.site-footer, .site-footer a {
+    color: #ffffff;
+    }
+
+ .svg-block {
+    fill: #73264d !important;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous {
+    background-color: #99004d;
+}
+
+button, .button, input[type="button"], input[type="reset"], input[type="submit"] {
+    background-color: #99004d;
